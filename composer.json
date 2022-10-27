@@ -11,8 +11,8 @@
 	"license": "BSD-3-Clause",
 	"require": {
 		"php": ">=5.2.11",
-		"zf1/zend-exception": "self.version",
-		"zf1/zend-xml": "^1.12",
+		"zf1/zend-exception": "^1.12",
+		"zf1/zend-xml": "dev-master",
 		"zf1/zend-cache": "^1.12"
 	},
 	"autoload": {
