@@ -13,7 +13,7 @@
 		"php": ">=5.2.11",
 		"zf1/zend-exception": "^1.12",
 		"zf1/zend-xml": "dev-master",
-		"zf1/zend-cache": "^1.12"
+		"zf1/zend-cache": "dev-master"
 	},
 	"autoload": {
 		"psr-0": {
